@@ -54,7 +54,6 @@ InputText.addEventListener('keydown', (e)=>{
     let vlInputTextInt = `${strValue.substring(0, (strValue.length - 2))}`;
     let vlInputTextDec = `${strValue.substring(strValue.length - 2)}`;
     console.log(`${vlInputTextInt}.${vlInputTextDec}`);
-    //strValue.len
 })
 
 //UMA STRING PARA CADA QUANTIDADE DE NÚMEROS DIGITADOS
